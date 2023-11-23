@@ -8,8 +8,9 @@ also assumes a Unix-like system, although most commands are probably easily
 translatable to any command line shell environment.
 
 
-### Table of Contents
 
+### Table of Contents
+* []
 * [Basics](#basics)
 * [Recursive search](#recursive-search)
 * [Automatic filtering](#automatic-filtering)
