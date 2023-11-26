@@ -10,7 +10,7 @@ translatable to any command line shell environment.
 
 
 ### Table of Contents
-* []
+* [Introduction]
 * [Basics](#basics)
 * [Recursive search](#recursive-search)
 * [Automatic filtering](#automatic-filtering)
